@@ -12,18 +12,18 @@ Some languages are widely spoken with little to no resources and some are not sp
 
 ## Roadmap
 
-- [] Home page
-- [] The first course
-  - [] Arrange the words
-  - [] Complete the translation
-  - [] Picture - Word matching
-  - [] Read and Respond
-  - [] Fill in the blanks
-  - [] Match the pairs
-  - [] Listening exercises (on hold for now.)
--  [] Achievements
--  [] Streaks
--  [] Stories with translations
+- [ ] Home page
+- [ ] The first course
+  - [ ] Arrange the words
+  - [ ] Complete the translation
+  - [ ] Picture - Word matching
+  - [ ] Read and Respond
+  - [ ] Fill in the blanks
+  - [ ] Match the pairs
+  - [ ] Listening exercises (on hold for now.)
+-  [ ] Achievements
+-  [ ] Streaks
+-  [ ] Stories with translations
 
 ## Approach
 
